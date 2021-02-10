@@ -220,3 +220,16 @@ width: 100vw;
  
 
   }
+
+  @media only screen and (max-width: 768px) {
+
+
+
+.superSection{      
+    background-size: 100% 100%;    
+    color: #0066cc;
+
+}
+
+  
+  }
