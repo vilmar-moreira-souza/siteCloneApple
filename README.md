@@ -10,7 +10,7 @@
 
 
 <p>essa aplicação é um clone da página inicial da appe brasil, no formato responsivo. </p>
- <a href="https://www.apple.com/br/ " target="blank"> site clonado</a>
+ <a href="https://www.apple.com/br/ " target="blank"> site clonado</a><br>
  <a href="https://vilmar-moreira-souza.github.io/siteCloneApple/" target="blank">visualizar clone</a>
  
 
