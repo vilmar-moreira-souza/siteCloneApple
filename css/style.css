@@ -175,6 +175,9 @@ h6 {
     width: 100%;
     justify-content: space-between;
   }
+  #nav_menu{
+    cursor: pointer;
+  }
 
   .icone {
     height: 3vh;
